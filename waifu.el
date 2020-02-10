@@ -11,9 +11,9 @@
 (random t)
 
 (defvar waifu-name nil
-  "Name of your waifu.")
+  "Your waifu's name.")
 (defvar weeb-name nil
-  "Name for the dumbass wanting to be comforted.")
+  "Name of the dumbass wanting to be comforted.")
 
 (defvar quote-list (list "waifu-name comforts weeb-name as he gets ready for work."
 			 "weeb-name puts his head on waifu-name's lap as he waits for Emacs to load."
@@ -50,6 +50,7 @@
   "This is just for fun."
   (interactive)
   (message "Here you go, %s; pat, pat." (read-string "Headpats' Recipient: ")))
+
 (defun comfort ()
   "Get comforted by your waifu from your Emacs command line."
   (interactive)
