@@ -15,14 +15,14 @@
 (defvar weeb-name nil
   "Name of the dumbass wanting to be comforted.")
 
-(defvar quote-list (list "waifu-name comforts weeb-name as he gets ready for work."
-			 "weeb-name puts his head on waifu-name's lap as he waits for Emacs to load."
+(defvar quote-list (list "waifu-name comforts weeb-name as she gets ready for work."
+			 "weeb-name puts her head on waifu-name's lap as she waits for Emacs to load."
 			 "waifu-name: M-x pat-head RET weeb-name"
-			 "waifu-name pats weeb-name's head as he desperately spams ESC to fix his fuckup."
+			 "waifu-name pats weeb-name's head as she desperately spams ESC to fix her fuckup."
 			 "waifu-name: 'Don't forget to C-x C-s, weeb-name!'"
-			 "waifu-name plays with weeb-name's hair as he opens another buffer."
-			 "weeb-name pulls waifu-name close while he compiles his project again."
-			 "waifu-name brings weeb-name a cup of tea to help him with the debugging."
+			 "waifu-name plays with weeb-name's hair as she opens another buffer."
+			 "weeb-name pulls waifu-name close while she compiles her project again."
+			 "waifu-name brings weeb-name a cup of tea to help her with the debugging."
 			 "waifu-name quickly continues her Dunnet run while weeb-name is afk."
 			 "waifu-name M-x butterfly's when weeb-name isn't looking."
 			 "waifu-name adds lots of hugging sessions to weeb-name's org-agenda."
